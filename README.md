@@ -32,4 +32,5 @@ For instance, [
 ### Key Insights:
 1. **COVID-19 Cases Over Time**: The USA has the highest cumulative COVID-19 cases, followed by India and Kenya. We observe significant spikes during certain periods (e.g., 2020).
 2. **Vaccination Rollouts**: The USA and India show substantial vaccination progress, with India having a rapid increase in vaccinations since late 2021.
-3. **Death Rates**: The death rate for the USA appears to be slightly higher than that of India, which could be attributed to various factors like healthcare infrastructure.].
+3. **Death Rates**: The death rate for the USA appears to be slightly higher than that of India, which could be attributed to various factors like healthcare infrastructure.
+   ].
