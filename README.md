@@ -1,4 +1,4 @@
-#📝 COVID-19 Global Data Tracker🦠
+###📝 COVID-19 Global Data Tracker🦠
 
 ## 📌Project Description:
 This project provides an analysis and visualization of COVID-19 trends globally. It tracks the spread of cases, deaths, recoveries, and vaccinations over time, across various countries. The notebook includes various data processing, analysis, and visualization techniques to help understand the ongoing pandemic's patterns.
