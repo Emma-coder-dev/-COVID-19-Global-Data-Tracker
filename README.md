@@ -1,9 +1,9 @@
-### 📝 COVID-19 Global Data Tracker🦠
+# 📌 COVID-19 Global Data Tracker🦠
 
-## 📌Project Description:
+## 📝 Project Description:
 This project provides an analysis and visualization of COVID-19 trends globally. It tracks the spread of cases, deaths, recoveries, and vaccinations over time, across various countries. The notebook includes various data processing, analysis, and visualization techniques to help understand the ongoing pandemic's patterns.
 
-##🚩 Objectives of the Project:
+## 🚩Objectives of the Project:
 - Import and clean COVID-19 global data
 - Analyze time trends for cases, deaths, recoveries, and vaccinations
 - Compare metrics across different countries and regions
@@ -25,7 +25,7 @@ This project provides an analysis and visualization of COVID-19 trends globally.
    pip install pandas matplotlib seaborn plotly
 4. Run the notebook from start to finish to see the analysis and visualizations.
 
-##Insights and Reflections:
+## Insights and Reflections:
  This analysis revealed interesting trends in the global distribution of COVID-19 cases and vaccination progress.
 
 For instance, [
